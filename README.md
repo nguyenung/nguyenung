@@ -1,5 +1,12 @@
 ### Hi there 👋
 #### Have a nice day, my friend 🌱
+
+![nguyenung's Stats](https://github-readme-stats.vercel.app/api?username=nguyenung&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+
+![nguyenung's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenung&theme=blueberry&hide_border=true)
+
+![nguyenung's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenung&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **nguyenung/nguyenung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
