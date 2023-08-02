@@ -7,7 +7,7 @@
       alt="Facebook"
     />
   </a>
-  <a href="https://www.linkedin.com/in/ombratteng/">
+  <a href="https://www.linkedin.com/in/ungnv/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0A66C2&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
