@@ -24,12 +24,12 @@
 </div>
 
 ## I am Ung Nguyen
-
 - Developer at [Saritasa Vietnam](https://www.saritasa.vn)
 - Loves coffee, book, sport and meditation.
 
+![Metrics](https://github.com/nguyenung/nguyenung/blob/master/github-metrics.svg)
 
-### Me tech stack
+### My tech stack
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -48,22 +48,3 @@
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-___
-
-![nguyenung's Stats](https://github-readme-stats.vercel.app/api?username=nguyenung&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-![nguyenung's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenung&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-
-<!--
-**nguyenung/nguyenung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Nodejs, Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
