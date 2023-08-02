@@ -18,7 +18,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/c108071eed3c4556811a4ef63bffe2d5.png?r=t29"
+      src="https://github.com/nguyenung/nguyenung/blob/master/devcard.svg"
     />
   </a>
 </div>
