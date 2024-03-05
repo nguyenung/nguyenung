@@ -25,9 +25,7 @@
 
 ## I am Ung Nguyen
 - Developer at [Saritasa Vietnam](https://www.saritasa.vn)
-- Loves coffee, book, sport and meditation.
-
-![Metrics](https://github.com/nguyenung/nguyenung/blob/master/github-metrics.svg)
+- Loves coffee, book, sport, investment and meditation.
 
 ### My tech stack
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
